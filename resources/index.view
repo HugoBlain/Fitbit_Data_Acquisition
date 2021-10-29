@@ -1,0 +1,6 @@
+<svg>
+  <rect id="background" />
+  <text id="lbl_date" />
+  <text id="lbl_hr" />
+  <text id="lbl_accel" />
+</svg>
